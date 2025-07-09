@@ -1,4 +1,4 @@
-# 🤖 Simple FAQ Chatbot
+notepa# 🤖 Simple FAQ Chatbot
 
 A lightweight, intelligent chatbot built using **Python**, **Streamlit**, and **Sentence Transformers** that can answer common customer queries like greetings, service information, pricing, and support contact.
 
